@@ -2,5 +2,6 @@ New Minecraft Update
 -New Cave Mobs
 -New Ores
 -New Cave Stuctures
--New Drops from Dungeon/Mineshaft chests
--New Crafting recipes
+-Better Ores in the Nether
+-Added more enchantments for the elytra
+-More cave biomes
