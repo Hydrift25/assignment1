@@ -2,6 +2,7 @@ New Minecraft Update
 -New Cave Mobs
 -New Ores
 -New Cave Stuctures
--Better Ores in the Nether
 -Added more enchantments for the elytra
--More cave biomes
+-New Crafting recipes
+-Updated the ores in Nether (more materials can be found in Nether)
+-Changed the stronghold layout/bigger and more rooms
